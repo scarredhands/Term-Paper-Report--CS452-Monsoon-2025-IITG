@@ -9,7 +9,8 @@ The report reviews a recent research paper in the domain of **safety and alignme
 
 ## Paper Under Review
 - **Target Paper:** [ACL 2024 Long Paper #30](https://aclanthology.org/2024.acl-long.30/)  
-- **Conference:** *62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)*  
+- **Conference:** *62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)*
+- Codebase of the original paper- https://github.com/xyq7/GradSafe
 
 ---
 
